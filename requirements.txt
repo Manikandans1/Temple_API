@@ -11,3 +11,5 @@ requests
 passlib[bcrypt]
 python-jose
 itsdangerous
+authlib
+aiofiles
